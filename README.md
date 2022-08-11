@@ -1,10 +1,10 @@
 # Full-stack-react-node-with-mysql-crud-app
 
 
-Simple Crud using  reactjs with nodejs and mysql database
+# Simple Crud using  reactjs with nodejs and mysql database
 
 
-*frontend
+* frontend
 dependencies	links
 axios	link
 querystring	link
@@ -19,7 +19,7 @@ start client server
 npm start
 Start react app. Port: http://localhost:3000
 
-*backend
+* backend
 dependencies	links
 cors	link
 express	link
