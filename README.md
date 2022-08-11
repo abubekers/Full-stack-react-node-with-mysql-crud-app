@@ -4,19 +4,19 @@
 
 
 * frontend
-- dependencies	links
-- axios	link
-querystring	link
-react	link
-react-dom	link
-react-scripts	link
-CSS Style - (html tags on index.js)
+1. dependencies	links
+2. axios	link
+3. querystring	link
+4. react	link
+5. react-dom	link
+6. react-scripts	link
+7. CSS Style - (html tags on index.js)
 
-cd to client folder and install node module
-npm install
-start client server
-npm start
-Start react app. Port: http://localhost:3000
+# cd to client folder and install node module
+* npm install
+* start client server
+* npm start
+* Start react app. Port: http://localhost:3000
 
 * backend
 dependencies	links
