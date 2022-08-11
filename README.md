@@ -20,15 +20,15 @@
 
 * backend
 dependencies	links
-cors	link
-express	link
-sequelize	link
-mysql2	link
-dev-dependencies	links
-nodemon	link
-sequelize-cli	link
-cd to server folder and install node module
-npm install
-start server
-npm start
-Start api server. Port: http://localhost:3001
+1. cors	link
+2. express	link
+3. sequelize	link
+4. mysql2	link
+5. dev-dependencies	links
+6. nodemon	link
+7. sequelize-cli	link
+* cd to server folder and install node module
+* npm install
+* start server
+* npm start
+* Start api server. Port: http://localhost:3001
