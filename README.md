@@ -4,8 +4,8 @@
 
 
 * frontend
-* dependencies	links
-* axios	link
+- dependencies	links
+- axios	link
 querystring	link
 react	link
 react-dom	link
