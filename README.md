@@ -1,12 +1,11 @@
 # Full-stack-react-node-with-mysql-crud-app
 
-
-# Simple Crud using  reactjs with nodejs and mysql database
+ Simple Crud using  reactjs with nodejs and mysql database
 
 
 * frontend
-dependencies	links
-axios	link
+* dependencies	links
+* axios	link
 querystring	link
 react	link
 react-dom	link
